@@ -8,5 +8,4 @@ except ZeroDivisionError:
     print("cannot divide by 0")
 except ValueError:
     print("Enter correct value.")
-except TypeError:
-    print("Enter numeric value.")
+

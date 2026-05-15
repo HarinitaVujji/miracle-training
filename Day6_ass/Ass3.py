@@ -2,7 +2,7 @@
 try:
     accno=int(input("Enter accno:"))
     try:
-        password=input("Enter password.")
+        password=input("Enter password:")
         if password != "admin123":
             raise ValueError("Incorrect password")
 

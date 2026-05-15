@@ -1,4 +1,4 @@
-Python has many built-in exceptions. These are predefined error classes that Python automatically raises when an error occurs.
+"""Python has many built-in exceptions. These are predefined error classes that Python automatically raises when an error occurs.
 
 Common Built-in Exceptions in Python
 Exception	Meaning	Example
@@ -91,3 +91,4 @@ BaseException
           ├── KeyError
           ├── NameError
           └── FileNotFoundError
+"""
